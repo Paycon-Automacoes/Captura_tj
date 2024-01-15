@@ -1,0 +1,7 @@
+{
+    "BOT": {
+        "USER": "USER",
+        "PASSWORD": "PASSWORD",
+        "HEADLESS": false
+        }
+}
